@@ -8,6 +8,7 @@ class TestServiceApplicationTests {
 
     @Test
     void contextLoads() {
+        throw new RuntimeException("ERROR");
     }
 
 }
