@@ -1,3 +1,2 @@
-@Library('aus-pipeline-lib')
-
+@Library('aus-pipeline-lib') _
 runTestCoveragePipeline()
